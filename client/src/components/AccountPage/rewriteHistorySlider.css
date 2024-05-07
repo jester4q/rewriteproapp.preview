@@ -1,0 +1,13 @@
+/* .slick-list { */
+/*   margin: 0 -15px; */
+/* } */
+/**/
+/* .slick-slide { */
+/*   margin-right: 15px; */
+/*   max-width: 193px; */
+/* } */
+
+.slick-prev:before,
+.slick-next:before {
+  content: none;
+}
